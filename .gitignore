@@ -22,14 +22,14 @@ migrate_working_dir/
 #.vscode/
 
 # Flutter/Dart/Pub related
-**/doc/api/
-**/ios/Flutter/.last_build_id
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
 /build/
+/build/**          # 이 줄을 추가해 전체 build 폴더는 무시하되
+!/build/web/       # build/web 폴더는 푸시되도록 예외 설정
 
 # Symbolication related
 app.*.symbols
