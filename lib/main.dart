@@ -91,7 +91,6 @@ class _HomePageState extends State<HomePage> {
                       // 최소 크기 설정
                       minimumSize: const Size(350, 58),
                       shape: RoundedRectangleBorder(
-                        // 둥근 버튼
                         borderRadius: BorderRadius.circular(10),
                       ),
                     ),
