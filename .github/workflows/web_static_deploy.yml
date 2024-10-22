@@ -19,13 +19,18 @@ jobs:
         with:
           flutter-version: "3.24.3" # 최신 버전으로 설정
 
-      # 3
-      - name: Build web
-        run: flutter build web --base-href "/${{ github.event.repository.name }}/"
+      - name: Install Dependencies
+        run: flutter pub get
 
-      # 4
-      - name: Deploy to github pages
+      - name: Build Web
+        run: flutter build web --release
+
+      - name: Add .nojekyll
+        run: echo > build/web/.nojekyll
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.MUNGGYM }}
-          publish_dir: ./build/web
+          github_token: ${{ secrets.MUNGGYM }} # repository에서 사용할 시크릿 키 이름
+          publish_dir: build/web
+          publish_branch: gh-pages
