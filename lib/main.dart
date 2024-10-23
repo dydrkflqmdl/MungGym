@@ -95,7 +95,7 @@ class _HomePageState extends State<HomePage> {
                       ),
                     ),
                     child: const Text(
-                      "시작하기",
+                      "시작하자",
                       style: TextStyle(
                         fontSize: 20,
                         fontFamily: 'Pretendard-SemiBold',
