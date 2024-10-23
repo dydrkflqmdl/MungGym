@@ -71007,7 +71007,7 @@ q=B.b.n(q,!0)?B.y:B.ao
 return A.cY(A.b([r,B.bt,A.bH(s,A.b0(s,B.bX,B.m,s,new A.aB(q,s,s,A.bm(10),s,s,B.q),58,s,s,273),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,p,s,s,s)],t.p),B.aq,B.B)}}
 A.a99.prototype={
 $1(a){var s=null,r=A.bm(20),q=A.bm(20),p=t.p
-return new A.oQ(new A.c3(r,B.p),A.nC(B.xY,A.b([A.b0(s,A.dv(A.b([B.jz,B.Pj,B.KO,B.Pi,B.KQ,A.dM(A.agG(B.Pp,new A.a98(a),A.agH(s,s,B.y,s,s,s,s,s,s,s,s,s,s,s,new A.c3(A.bm(10),B.p),s,s,s,s)),52,290)],p),B.a0,B.a1,B.fG),B.m,s,new A.aB(B.j,s,s,q,s,s,B.q),349,s,B.lk,347),A.FW(s,A.WR("assets/images/1st.png",s,68,68),s,s,s,s,-25,s)],p),B.m,B.cL),s)},
+return new A.oQ(new A.c3(r,B.p),A.nC(B.xY,A.b([A.b0(s,A.dv(A.b([B.jz,B.Pj,B.KO,B.Pi,B.KQ,A.dM(A.agG(B.Pq,new A.a98(a),A.agH(s,s,B.y,s,s,s,s,s,s,s,s,s,s,s,new A.c3(A.bm(10),B.p),s,s,s,s)),52,290)],p),B.a0,B.a1,B.fG),B.m,s,new A.aB(B.j,s,s,q,s,s,B.q),349,s,B.lk,347),A.FW(s,A.WR("assets/images/1st.png",s,68,68),s,s,s,s,-25,s)],p),B.m,B.cL),s)},
 $S:447}
 A.a98.prototype={
 $0(){A.cD(this.a,!1).eg()},
@@ -71178,7 +71178,7 @@ A.uy.prototype={
 ad(){return new A.KK()}}
 A.KK.prototype={
 L(a){var s=null
-return A.i6(B.kW,A.dP(A.b0(s,new A.H4(A.dv(A.b([B.Px,B.cK,B.Ph,B.jz,A.WR("assets/images/dog.png",s,299,302),B.jz,new A.ca(B.bl,A.agG(B.Pw,new A.a9x(a),A.agH(s,s,B.j,s,s,s,s,s,s,s,s,B.KB,s,s,new A.c3(A.bm(10),B.p),s,s,s,s)),s)],t.p),B.a0,B.aq,B.B),s),B.m,B.kW,s,s,s,s,s),s,s),s)}}
+return A.i6(B.kW,A.dP(A.b0(s,new A.H4(A.dv(A.b([B.Px,B.cK,B.Ph,B.jz,A.WR("assets/images/dog.png",s,299,302),B.jz,new A.ca(B.bl,A.agG(B.Pn,new A.a9x(a),A.agH(s,s,B.j,s,s,s,s,s,s,s,s,B.KB,s,s,new A.c3(A.bm(10),B.p),s,s,s,s)),s)],t.p),B.a0,B.aq,B.B),s),B.m,B.kW,s,s,s,s,s),s,s),s)}}
 A.a9x.prototype={
 $0(){var s=A.hX(new A.a9w(),null,t.z)
 A.cD(this.a,!1).eU(s)},
@@ -71200,7 +71200,7 @@ s=A.dM(new A.xp(s,r,B.LF,B.KT,B.KU,10,o.ga2R(),!0,n),n,342)
 r=o.e
 q=r?new A.a8t(o,a):n
 p=r?B.y:B.G
-return A.i6(n,A.dP(A.dv(A.b([B.bI,m,B.KP,B.KL,B.cK,s,B.cK,B.bv,A.agG(B.Pv,q,A.agH(n,n,p,n,n,n,n,n,n,r?B.j:B.n,n,B.KA,n,n,n,n,n,n,n)),B.bu],t.p),B.a0,B.a1,B.B),n,n),!0)}}
+return A.i6(n,A.dP(A.dv(A.b([B.bI,m,B.KP,B.KL,B.cK,s,B.cK,B.bv,A.agG(B.Pw,q,A.agH(n,n,p,n,n,n,n,n,n,r?B.j:B.n,n,B.KA,n,n,n,n,n,n,n)),B.bu],t.p),B.a0,B.a1,B.B),n,n),!0)}}
 A.a8r.prototype={
 $0(){this.a.e=this.b.length!==0},
 $S:0}
@@ -71328,7 +71328,7 @@ L(a){var s,r=this,q=null,p=A.bm(10),o=t.p
 p=A.b([B.bI,A.b0(q,A.dw(q,q,q,new A.Dc(0.3,q),B.v),B.U,q,new A.aB(B.G,q,q,p,q,q,B.q),10,q,q,342),B.cb,B.KH,B.bJ,r.a5S()],o)
 if(r.d==="\uc788\uc5b4\uc694"){s=A.bm(8)
 B.b.N(p,A.b([B.jA,A.b0(q,A.dv(A.b([B.PC,B.bJ,r.Wm()],o),B.c_,B.a1,B.B),B.m,q,new A.aB(B.i4,q,q,s,q,q,B.q),q,q,B.lj,342)],o))}if(r.d==="\uc5c6\uc5b4\uc694"){s=A.bm(8)
-B.b.N(p,A.b([B.jA,A.b0(q,A.dv(A.b([B.Ps,B.IH,B.cK,r.oS("\ucd5c\uadfc 6\uac1c\uc6d4 \uc548\uc5d0 \ub4b7\ub2e4\ub9ac\uac00 \uc808\ub69d\uac70\ub9b0 \uc801\uc774 \uc788\uc5b4\uc694.",r.f,new A.adL(r)),r.oS("\ub192\uc740 \uacf3\uc5d0 \uc62c\ub77c\uac00\uac70\ub098 \ub0b4\ub824\uc624\uae30 \uc8fc\uc800\ud574\uc694.",r.r,new A.adM(r)),r.oS("\ub2e4\ub9ac\ub97c \ud565\uc558\uc744 \ub54c, '\ub450\ub450\ub451'\ud558\ub294 \ubf08\uc18c\ub9ac\uac00 \ub098\uc694.",r.w,new A.adN(r)),r.oS("\ub2e4\ub9ac\ub97c \ub9cc\uc9c0\ub824\uace0 \ud560 \ub54c \uac70\ubd80 \ubc18\uc751\uc774 \uc788\uc5b4\uc694.",r.x,new A.adO(r)),r.oS("\uc11c\uc788\ub294 \uc790\uc138\ub97c \ub4a4\uc5d0\uc11c \ubd24\uc744 \ub54c, \ub2e4\ub9ac\uac00 \uace7\uc9c0 \uc54a\uace0 \ud718\uc5b4 \uc788\uc5b4\uc694.",r.y,new A.adP(r))],o),B.c_,B.a1,B.B),B.m,q,new A.aB(B.i4,q,q,s,q,q,B.q),q,q,B.lj,342)],o))}p.push(B.bv)
+B.b.N(p,A.b([B.jA,A.b0(q,A.dv(A.b([B.Pt,B.IH,B.cK,r.oS("\ucd5c\uadfc 6\uac1c\uc6d4 \uc548\uc5d0 \ub4b7\ub2e4\ub9ac\uac00 \uc808\ub69d\uac70\ub9b0 \uc801\uc774 \uc788\uc5b4\uc694.",r.f,new A.adL(r)),r.oS("\ub192\uc740 \uacf3\uc5d0 \uc62c\ub77c\uac00\uac70\ub098 \ub0b4\ub824\uc624\uae30 \uc8fc\uc800\ud574\uc694.",r.r,new A.adM(r)),r.oS("\ub2e4\ub9ac\ub97c \ud565\uc558\uc744 \ub54c, '\ub450\ub450\ub451'\ud558\ub294 \ubf08\uc18c\ub9ac\uac00 \ub098\uc694.",r.w,new A.adN(r)),r.oS("\ub2e4\ub9ac\ub97c \ub9cc\uc9c0\ub824\uace0 \ud560 \ub54c \uac70\ubd80 \ubc18\uc751\uc774 \uc788\uc5b4\uc694.",r.x,new A.adO(r)),r.oS("\uc11c\uc788\ub294 \uc790\uc138\ub97c \ub4a4\uc5d0\uc11c \ubd24\uc744 \ub54c, \ub2e4\ub9ac\uac00 \uace7\uc9c0 \uc54a\uace0 \ud718\uc5b4 \uc788\uc5b4\uc694.",r.y,new A.adP(r))],o),B.c_,B.a1,B.B),B.m,q,new A.aB(B.i4,q,q,s,q,q,B.q),q,q,B.lj,342)],o))}p.push(B.bv)
 p.push(r.a5R(a))
 p.push(B.bu)
 return A.i6(q,A.dP(A.dv(p,B.a0,B.a1,B.B),q,q),q)},
@@ -74170,16 +74170,16 @@ B.zv=new A.Pa()
 B.zz=new A.or(null,null,null,null,null,null,null)
 B.j=new A.j(4294967295)
 B.MZ=new A.k(!0,B.j,null,"Pretendard-SemiBold",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pr=new A.ce("\ub2e4\uc74c",null,B.MZ,null,null,null,null,null,null)
-B.bX=new A.fW(B.Y,null,null,B.Pr,null)
+B.Ps=new A.ce("\ub2e4\uc74c",null,B.MZ,null,null,null,null,null,null)
+B.bX=new A.fW(B.Y,null,null,B.Ps,null)
 B.Aj=new A.j(4289374902)
 B.c4=new A.fs(6)
 B.LU=new A.k(!0,B.Aj,null,null,null,null,28,B.c4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.PB=new A.ce("<",null,B.LU,null,null,null,null,null,null)
 B.zA=new A.fW(B.Y,null,null,B.PB,null)
 B.MJ=new A.k(!0,B.j,null,null,null,null,28,B.c4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Po=new A.ce("<",null,B.MJ,null,null,null,null,null,null)
-B.bY=new A.fW(B.Y,null,null,B.Po,null)
+B.Pp=new A.ce("<",null,B.MJ,null,null,null,null,null,null)
+B.bY=new A.fW(B.Y,null,null,B.Pp,null)
 B.y=new A.j(4283334399)
 B.ND=new A.k(!0,B.y,null,"Pretendard-SemiBold",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Pk=new A.ce("\uccb4\ud06c\ud558\ub7ec \uac00\uae30",null,B.ND,null,null,null,null,null,null)
@@ -75817,10 +75817,10 @@ B.vZ=new A.pN(2,"bubble")
 B.w_=new A.hl(null,null)
 B.jS=new A.a5S(1,"down")
 B.bh=new A.k(!0,null,null,"Pretendard-Medium",null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pu=new A.ce("  \uccb4\ud06c ",null,B.bh,null,null,null,null,null,null)
+B.Pv=new A.ce("  \uccb4\ud06c ",null,B.bh,null,null,null,null,null,null)
 B.Co=new A.ki(B.iv,18,B.y,null)
-B.Pn=new A.ce(" \ud574\uc8fc\uc138\uc694.",null,B.bh,null,null,null,null,null,null)
-B.DK=A.b(s([B.Pu,B.Co,B.Pn]),t.p)
+B.Po=new A.ce(" \ud574\uc8fc\uc138\uc694.",null,B.bh,null,null,null,null,null,null)
+B.DK=A.b(s([B.Pv,B.Co,B.Po]),t.p)
 B.IH=new A.ws(B.bb,B.a1,B.B,B.a0,null,B.jS,null,B.DK,null)
 B.II=new A.GD(null,null)
 B.ds=new A.no(0,"idle")
@@ -76028,11 +76028,11 @@ B.as=new A.cd(0,0,null,null)
 B.wW=new A.cd(12,null,null,null)
 B.bt=new A.cd(8,null,null,null)
 B.bO=new A.k(!0,null,null,"Pretendard-SemiBold",null,null,22,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pt=new A.ce("\uc911\uc131\ud654\ub97c \ud588\ub098\uc694?",null,B.bO,B.ac,null,null,null,null,null)
-B.KF=new A.cd(342,null,B.Pt,null)
+B.Pu=new A.ce("\uc911\uc131\ud654\ub97c \ud588\ub098\uc694?",null,B.bO,B.ac,null,null,null,null,null)
+B.KF=new A.cd(342,null,B.Pu,null)
 B.jH=new A.k(!0,B.j,null,"Pretendard-SemiBold",null,null,22,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pq=new A.ce("\uadf8\ub7fc \uccb4\ud06c\ud558\ub7ec \uac00\ubcfc\uae4c\uc694?",null,B.jH,B.ac,null,null,null,null,null)
-B.KG=new A.cd(342,null,B.Pq,null)
+B.Pr=new A.ce("\uadf8\ub7fc \uccb4\ud06c\ud558\ub7ec \uac00\ubcfc\uae4c\uc694?",null,B.jH,B.ac,null,null,null,null,null)
+B.KG=new A.cd(342,null,B.Pr,null)
 B.PD=new A.ce("\uc218\uc758\uc0ac\uc5d0\uac8c\n\uc2ac\uac1c\uace8\ud0c8\uad6c \uc9c4\ub2e8 \ubc1b\uc740\uc801\uc774 \uc788\ub098\uc694?",null,B.bO,B.ac,null,null,null,null,null)
 B.KH=new A.cd(342,null,B.PD,null)
 B.Py=new A.ce("Food Drive\ub780?",null,B.jH,B.ac,null,null,null,null,null)
@@ -76374,13 +76374,13 @@ B.NT=new A.k(!0,B.n,null,"Pretendard-SemiBold",null,null,16,B.c4,null,null,null,
 B.Pi=new A.ce("\uacc4\uc18d \uc9c0\uae08\uacfc \uac19\uc740 \uc2dd\uc695\uc744 \uc720\uc9c0\ud574\uc8fc\uc138\uc694!\n\n\ubd84\uba85 \ud648\ud53c\ud2b8\ub2c8\uc2a4\ub97c \ube60\ub974\uac8c\n\ubc30\uc6cc\ub098\uac00\uba70 \uc990\uac70\uc6cc\ud560\uac70\uc608\uc694!",null,B.NT,B.cd,null,null,null,null,null)
 B.MB=new A.k(!0,B.y,null,"Pretendard-Medium",null,null,24,B.c4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Pj=new A.ce("Perfect!",null,B.MB,null,null,null,null,null,null)
-B.Mr=new A.k(!0,B.j,null,"Pretendard-SemiBold",null,null,20,B.c4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pp=new A.ce("\ud655\uc778\ud588\uc5b4\uc694",null,B.Mr,null,null,null,null,null,null)
-B.Ps=new A.ce("  \ud574\ub2f9\ud558\ub294 \uc99d\uc0c1\uc774 \uc788\ub2e4\uba74",null,B.bh,null,null,null,null,null,null)
-B.M_=new A.k(!0,null,null,"Pretendard-SemiBold",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pv=new A.ce("\ub2e4\uc74c",null,B.M_,null,null,null,null,null,null)
 B.M7=new A.k(!0,B.n,null,"Pretendard-SemiBold",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pw=new A.ce("\uc2dc\uc791\ud558\uae30",null,B.M7,null,null,null,null,null,null)
+B.Pn=new A.ce("\uc2dc\uc791\ud558\uc790",null,B.M7,null,null,null,null,null,null)
+B.Mr=new A.k(!0,B.j,null,"Pretendard-SemiBold",null,null,20,B.c4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Pq=new A.ce("\ud655\uc778\ud588\uc5b4\uc694",null,B.Mr,null,null,null,null,null,null)
+B.Pt=new A.ce("  \ud574\ub2f9\ud558\ub294 \uc99d\uc0c1\uc774 \uc788\ub2e4\uba74",null,B.bh,null,null,null,null,null,null)
+B.M_=new A.k(!0,null,null,"Pretendard-SemiBold",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Pw=new A.ce("\ub2e4\uc74c",null,B.M_,null,null,null,null,null,null)
 B.Px=new A.ce("\ub0b4\uac00 \ubc14\ub85c\n\uc6b0\ub9ac \uac15\uc544\uc9c0\uc758 \uc804\ubb38\uac00!",null,B.xh,B.cd,null,null,null,null,null)
 B.Ne=new A.k(!0,null,null,"Pretendard-Medium",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.PC=new A.ce("\uc2ac\uac1c\uace8\ud0c8\uad6c\n\uba87 \uae30\ub97c \uc9c4\ub2e8 \ubc1b\uc73c\uc168\ub098\uc694?",null,B.Ne,B.ac,null,null,null,null,null)
