@@ -27,7 +27,8 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-!/build/web/       # build/web 폴더는 푸시되도록 예외 설정
+.build/
+# !/build/web/       # build/web 폴더는 푸시되도록 예외 설정
 
 # Symbolication related
 app.*.symbols
